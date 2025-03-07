@@ -7,6 +7,8 @@
  */
 const USER_CONFIG = {
 
+  USE_PASSAGE: 'push-plus',
+  
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx3fe798c15cb745e6',
 
@@ -21,9 +23,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '阿柒',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'on3D27ELh4WWWYq_oDoZBaprgPB4',
+      id: '494e93fbf13e4b90b1f548af56dee550',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ChdAvqTFy5QQoYzC2A9e6EZO9LJ3oRGYnyaSgu3jVr8',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-23',
       festivals: [
