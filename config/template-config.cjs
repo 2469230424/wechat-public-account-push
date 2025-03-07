@@ -2,11 +2,11 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '燃燃,乖~不要熬夜，听话睡觉啦！',
     desc: `
       **{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}
+      下个见面日：{{holidaytts.DATA}}
       
       ---
       
